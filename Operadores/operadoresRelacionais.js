@@ -15,7 +15,6 @@ let numero2 = 10;
 
 // console.log(18 >= 18); // Maior ou igual
 // console.log(5 <= 12); // Menor ou igual
-// console.log(0 > 0); // Maior que
 
 // console.log(5 != 5); // Verifica se é diferente
 // console.log(5 !== "5"); // Verifica se o valor e o tipo são diferentes

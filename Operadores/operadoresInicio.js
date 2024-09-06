@@ -75,3 +75,13 @@ let resultadoComparacao = numeroMaior > numeroMenor;
 
 
 //console.log(numeroMaior < numeroMenor);
+
+// Subtrair valor
+let saldo1 = 100;
+saldo1 -= 25; // Isso é equivalente a saldo = saldo - 25;
+console.log(saldo1); // O resultado será 75
+
+// Adicionar valor
+let saldo2 = 100;
+saldo2 += 25; // Isso é equivalente a saldo = saldo + 25;
+console.log(saldo2); // O resultado será 125

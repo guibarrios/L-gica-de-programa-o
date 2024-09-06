@@ -19,6 +19,7 @@ let verificacaoIdade = maiorIdade && temCarteira;
 // console.log(maiorIdade && temCarteira);
 
 //Operador OU
+//||
 
 let bicicletaAzul = false;
 let bicicletaVermelha = true;
