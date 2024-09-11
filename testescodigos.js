@@ -2,7 +2,7 @@
 let saldo = 100.00;
 
 // Função para realizar uma compra
-function realizarCompra(valorCompra) {
+function compra(valorCompra) {
     if (valorCompra <= saldo) {
         saldo -= valorCompra;
         console.log(`Compra de R$${valorCompra.toFixed(2)} realizada com sucesso!`);
@@ -13,5 +13,5 @@ function realizarCompra(valorCompra) {
 }
 
 // Exemplo de uso
-realizarCompra(25.50); // Compra de R$25.50 realizada com sucesso!
-realizarCompra(50.00); // Saldo insuficiente para realizar a compra.
+compra(25.50); // Compra de R$25.50 realizada com sucesso!
+compra(50.00); // Saldo insuficiente para realizar a compra.

@@ -16,7 +16,9 @@ let caderno = 10;
 let lapis = 1;
 let borracha = 0.5;
 
-//Soma da compra
+
+
+/*//Soma da compra
 let totalcompra = compracaneta*caneta + compracaderno*caderno + compralapis*lapis + compraborracha*borracha;
 
 console.log("Total R$ "+totalcompra); //Valor da compra
@@ -40,4 +42,4 @@ if (qtdlapis-compralapis <= 5) {
 }
 if (qtdborracha-compraborracha <= 5) {
     console.log("Estoque de borracha baixo",qtdborracha-compraborracha,"unidades restantes");
-}
+}*/
